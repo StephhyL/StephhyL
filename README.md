@@ -6,7 +6,7 @@
 
 #### Here is a little bit about me:
 
-- 🎥 I’m currently working on my next YouTube video - subscribe? hahaha 😅 & on gameApp (check out that repo) & JS30 Challenge
-- 🌱 I’m currently learning MaterialUI and Heroku deployment.
+- 🎥 I’m currently studying efficient algorithms (I'm starting at twoSum 😅) and Python! 
+-  ON HOLD: next YouTube video, gamesApp, JS30 Challenge, MaterialUI
 - ⪌ Connect with me via LinkedIn: https://www.linkedin.com/in/stephanie-li-474bba215/
-- ⚡ Fun fact: I can watch Kdramas at 2x the speed and still be able to keep up with the subtitles. Dare I say... Kdramas are teaching me Korean?
+- 🎶 Fun fact: I did not pass my Grade 8 chamber choir audition. My teacher told me that I am tone-deaf. One time when I was singing, my parents ran upstairs to where I was because they thought I was screaming and something bad happened. Now...decades later, can I sing well? That's debatable. Do I still sing? Yup because it's fun. Similar to coding, I may not be the best but I'm going to still keep going - because it's fun. 
